@@ -19,7 +19,7 @@ Check out my personal portfolio to view my latest projects, skills, and client t
 
 ## 📫 Let's Connect
 
-- 📧 Email: your.email@example.com  
+- 📧 Email: gamerboy199711@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/yourhandle](https://linkedin.com/in/yourhandle)  
 - 💻 GitHub: [github.com/myfirstapp111](https://github.com/myfirstapp111)
 
