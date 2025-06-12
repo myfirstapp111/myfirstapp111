@@ -8,7 +8,7 @@ I'm a passionate **Full-Stack Developer** with experience building fast, scalabl
 
 ## 🌐 My Portfolio  
 Check out my personal portfolio to view my latest projects, skills, and client testimonials:  
-🔗 **[bikramportfolio.ooguy.com](https://bikramportfolio.ooguy.com)**
+🔗 **[bikramportfolio.ooguy.com](https://www.bikramportfolio.ooguy.com)**
 
 ## 📈 Why Work With Me?
 
